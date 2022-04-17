@@ -1,0 +1,982 @@
+{
+    "cuarto": {
+        "Breakfast": {
+            "CHEF CHOICE ENTREE": {
+                "Serving Size": ": 1 EA",
+                "Calories": ": -1",
+                "Fat (g)": ": -1",
+                "Carbohydrates (g)": ": -1",
+                "Protein (g)": ": -1"
+            },
+            "Tater Tots": {
+                "description": "Crispy fried tater tots.",
+                "Serving Size": ": 4 oz",
+                "Calories": ": 279",
+                "Fat (g)": ": 20.27",
+                "Carbohydrates (g)": ": 21.33",
+                "Protein (g)": ": 1.86",
+                "Allergens": "Soybean Oil/*Ingredient prepared in a fryer that`s not allergen-free",
+                "Ingredients": "Tater tot potatoes (potatoes, vegetable oil [soybean, canola, cottonseed, and/or sunflower], Contains less than 2% of dextrose, sea salt, disodium dihydrogen pyrophosphate), canola fryer oil"
+            },
+            "Scrambled Egg Whites": {
+                "Serving Size": ": 3.5 oz",
+                "Calories": ": 95.1",
+                "Fat (g)": ": 5.18",
+                "Carbohydrates (g)": ": 0.78",
+                "Protein (g)": ": 10.15",
+                "Allergens": "Egg",
+                "Ingredients": "Cage-free egg whites, canola oil"
+            },
+            "Tofu Scramble": {
+                "description": "Scrambled firm tofu cooked with onions, bell peppers, and soy sauce.",
+                "Serving Size": ": 3.5 oz",
+                "Calories": ": 84.9",
+                "Fat (g)": ": 5.34",
+                "Carbohydrates (g)": ": 3.96",
+                "Protein (g)": ": 7",
+                "Allergens": "Soy/Gluten/Wheat",
+                "Ingredients": "Organic firm tofu, yellow onion, red and green bell peppers, Kikkoman soy sauce (water, soybeans, wheat, salt, sodium benzoate), nutritional yeast, canola oil, garlic, ground turmeric"
+            },
+            "Eggs Fried to Order": {
+                "description": "Consuming raw or undercooked eggs may increase risk of foodborne illness, especially for those with certain medical conditions",
+                "Serving Size": ": each",
+                "Calories": ": 71.5",
+                "Fat (g)": ": 4.75",
+                "Carbohydrates (g)": ": 0.36",
+                "Protein (g)": ": 6.28",
+                "Allergens": "Egg",
+                "Ingredients": "Eggs"
+            },
+            "Mushroom and Tomato Omelet": {
+                "description": "Fluffy omelet with roasted tomatoes, mushrooms, crumbled Feta cheese, and our walnut-arugula \"phesto\"",
+                "Serving Size": ": 1 SV",
+                "Calories": ": 742.19",
+                "Fat (g)": ": 66.36",
+                "Carbohydrates (g)": ": 7.27",
+                "Protein (g)": ": 31.16",
+                "Allergens": "Egg/Mushroom/Dairy/Alcohol/Tree Nuts",
+                "Ingredients": "Cage-free eggs, Sherry tomatoes (cherry tomatoes, canola/olive oil blend, kosher salt, Sherry cooking wine [wine, water, neutral spirits, salt, high fructose corn syrup, tartaric acid, caramel color, citric acid, potassium sorbate, potassium metabisulfite], ground black pepper), Balsamic-marinated mushrooms (Crimini mushrooms, Portobello mushrooms, canola/olive oil blend, Balsamic vinegar, fresh rosemary, Shiitake mushrooms, kosher salt, ground black pepper), Feta cheese, canola/olive oil blend, house arugula phesto\" (canola/olive oil blend, wild arugula, fresh basil, walnuts, garlic, salt, lemon juice, ground black pepper)\""
+            },
+            "Barbacoa Omelet": {
+                "description": "Fluffy egg omelet stuffed with barbacoa beef, Gouda cheese, and roasted onions & peppers",
+                "Serving Size": ": 1 SV",
+                "Calories": ": 1183.36",
+                "Fat (g)": ": 113.42",
+                "Carbohydrates (g)": ": 5.74",
+                "Protein (g)": ": 42.11",
+                "Allergens": "Egg/Tree Nuts/Dairy",
+                "Ingredients": "Cage-free eggs, canola/olive oil blend, Barbacoa beef (beef shoulder, yellow onion, apple cider vinegar, dried Anaheim chile, garlic, salt, dark chili powder, cumin, ground black pepper, cloves, Mediterranean oregano, thyme), smoked Gouda cheese, house-made roasted yellow pepper phesto\" (yellow bell pepper, extra virgin olive oil, walnuts, fresh basil, garlic, kosher salt, crushed red pepper), red and green bell peppers, yellow onion\""
+            },
+            "Cheese Omelet": {
+                "description": "Fluffy egg omelet filled with Cheddar and Monterey Jack cheese",
+                "Serving Size": ": 1 EA",
+                "Calories": ": 616.95",
+                "Fat (g)": ": 53.92",
+                "Carbohydrates (g)": ": 0.51",
+                "Protein (g)": ": 30.24",
+                "Allergens": "Dairy/Egg",
+                "Ingredients": "Cage-free eggs, canola/olive oil blend, mild yellow Cheddar cheese (pasteurized milk, cheese culture, salt, enzymes, annatto, potato starch, corn starch, powdered cellulose), Monterey Jack cheese (pasteurized milk, cheese culture, salt, enzymes, potato starch, corn starch and powdered cellulose)"
+            },
+            "Over Night Oats": {
+                "description": "Rolled oats prepared in soy milk, yogurt, & honey. Granished with fresh berries, almond butter, & our house chocolate granola",
+                "Serving Size": ": bowl",
+                "Calories": ": 569.53",
+                "Fat (g)": ": 29.24",
+                "Carbohydrates (g)": ": 64.9",
+                "Protein (g)": ": 16.89",
+                "Allergens": "Gluten/Wheat/Soy/Dairy/Coconut/Tree Nuts/Peanuts",
+                "Ingredients": "Rolled oats (vanilla soy milk [filtered water, soybeans, cane sugar, sea salt, gellan gum, natural flavor], old fashioned whole grain rolled oats [per manufacturer, may contain wheat/gluten], coconut milk, vanilla Greek yogurt [cultured grade A nonfat milk, water, cane sugar, corn starch. Contains less than 1% of natural flavors, lemon juice concentrate, carob bean gum, vegetable juice, vitamin d3], steamed quinoa [cooked in water], beet sugar, pure clover honey, chia seeds, ground cinnamon, kosher salt), strawberries, almond butter, house-made chocolate granola (old fashioned whole grain oats [per manufacturer, may contain wheat/gluten], seedless raisins, sunflower seeds, unsalted butter, pure clover honey, peanut-free mixed nuts [cashews, almonds, sunflower oil and/or cottonseed oil, pecans, hazelnuts, dried Brazil nuts, salt], light brown beet sugar, molasses, cocoa powder [processed with alkali. May contain soy and milk]), blueberries, coconut flakes (coconut, sugar, water, propylene glycol, salt, sodium metabisulfite. Per manufacturer, contains tree nuts)"
+            },
+            "Fruit Salad": {
+                "description": "A delicious and nutritious blend of fresh fruit!",
+                "Serving Size": ":  1/2 Cup",
+                "Calories": ": 42.3",
+                "Fat (g)": ": 0.64",
+                "Carbohydrates (g)": ": 9.79",
+                "Protein (g)": ": 0.49",
+                "Allergens": "Cantaloupe, pineapple, red grapes, honeydew melon"
+            },
+            "Oatmeal": {
+                "description": "Hot old-fashioned rolled oats (may contain wheat/gluten)",
+                "Serving Size": ": 7 oz",
+                "Calories": ": 105.04",
+                "Fat (g)": ": 1.94",
+                "Carbohydrates (g)": ": 18.85",
+                "Protein (g)": ": 3.6",
+                "Allergens": "Gluten/Wheat",
+                "Ingredients": "Whole grain oats (per manufacturer, may contain wheat/gluten) cooked in water and a pinch of salt."
+            },
+            "Hard Boiled Eggs": {
+                "description": "Cage-free, hard boiled eggs",
+                "Serving Size": ": 1 each",
+                "Calories": ": 71.5",
+                "Fat (g)": ": 4.76",
+                "Carbohydrates (g)": ": 0.36",
+                "Protein (g)": ": 6.28",
+                "Allergens": "Egg",
+                "Ingredients": "Cage free eggs"
+            },
+            "Mini Onion Bagel": {
+                "description": "Per manufacturer, produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": 1 bagel",
+                "Calories": ": 359.99",
+                "Fat (g)": ": 2.5",
+                "Carbohydrates (g)": ": 71",
+                "Protein (g)": ": 12.99",
+                "Allergens": "Gluten/Soybean Oil/Wheat",
+                "Ingredients": "Enriched unbleached flour (wheat flour, malted barley flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid), water, onions, brown sugar, malt (corn syrup, malt syrup), salt, poppy seeds, enzyme (wheat flour, enzymes, ascorbic acid), yeast (yeast, sorbitan monostearate, ascorbic acid), dough improver (wheat flour, monoglycerides, ascorbic acid. Contains 2% or less of enzymes, soybean oil), vinegar, minced onions. Per manufacturer, produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Apple Cinnamon Muffin": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": each",
+                "Calories": ": 150",
+                "Fat (g)": ": 10",
+                "Carbohydrates (g)": ": 25",
+                "Protein (g)": ": 3",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached wheat flour, modified food starch, soybean oil, dry whey, leavening, salt, vital wheat gluten, propylene glycol mono- and diglycerides of fatty acids, mono- and diglycerides, sodium stearoyl lactylate, dextrose, corn starch, tricalcium phosphate, soya flour, dry whole eggs, natural and artificial flavor, water, ascorbic acid, alpha tocopherol, citric acid, apple filling, high fructose corn syrup, water, sugar, modified corn starch. Contains 2% or less of lemon juice, apple juice concentrate, cinnamon, potassium sorbate, salt, citric acid, nutmeg, eggs, soybean oil, water, cinnamon. Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Chocolate Cake Donut with Sprinkles": {
+                "description": "Produced in a facility that also uses milk, eggs, fish, tree nuts, peanuts, wheat, and soybeans.",
+                "Serving Size": ": each",
+                "Calories": ": 290",
+                "Fat (g)": ": 11",
+                "Carbohydrates (g)": ": 45",
+                "Protein (g)": ": 4",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Enriched bleached wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), sugar, soybean oil, nonfat dry milk, leavening. Contains 2% or less of corn flour, defatted soy flour, dried egg yolks, salt, dextrose, corn starch, sodium caseinate, potato flour, vital wheat gluten, cellulose gum, spice, natural and artificial flavor (milk), palm oil, chocolate icing (contains soy and soybean oil), water, sprinkles (contains soy and soybean oil). Produced in a facility that also uses milk, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Maple Donut Vegan": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy.",
+                "Serving Size": ": each",
+                "Calories": ": 370",
+                "Fat (g)": ": 21",
+                "Carbohydrates (g)": ": 43",
+                "Protein (g)": ": 4",
+                "Allergens": "Alcohol [vanilla extract]/Gluten/Soy/Wheat",
+                "Ingredients": "Donut ingredients: unbleached enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), sugar, soybean oil, defatted soy flour, leavening, isolated soy protein, dextrose, wheat starch, salt, natural flavor, cellulose gum, emulsifier, spice, beta carotene, water, palm oil. Icing ingredients: powdered sugar, corn syrup, maple extract, vanilla extract (alcohol, bourbon vanilla beans, water). Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy."
+            }
+        },
+        "Lunch": {
+            "Deli Bar": {
+                "description": "Assorted Meats and Cheeses with your favorite spreads, breads and veggies",
+                "Serving Size": ": 1 EA",
+                "Calories": ": -1",
+                "Fat (g)": ": -1",
+                "Carbohydrates (g)": ": -1",
+                "Protein (g)": ": -1"
+            },
+            "M&M Brownies": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": each",
+                "Calories": ": 210",
+                "Fat (g)": ": 10",
+                "Carbohydrates (g)": ": 29",
+                "Protein (g)": ": 2",
+                "Allergens": "Alcohol/Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached wheat flour, vegetable shortening (contains soybean oil), cocoa, dried egg whites, corn starch, dried whey, soy flour, artificial flavor, salt, water, soybean oil, milk chocolate (sugar, cocoa butter, chocolate liquor, whole milk powder, soy lecithin, vanilla), sugar, artificial color, corn syrup, wax, dextrin. Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Vegan Oatmeal Raisin Cookie": {
+                "Serving Size": ": 1 cookie",
+                "Calories": ": 177",
+                "Fat (g)": ": 6.1",
+                "Carbohydrates (g)": ": 41",
+                "Protein (g)": ": 3",
+                "Allergens": "Alcohol [vanilla extract]/Gluten/Wheat",
+                "Ingredients": "Oatmeal, organic evaporated cane sugar, California raisins, unbleached wheat flour, sustainable RSPO palm oil shortening, grape juice, rice dextrins, pure vanilla extract, cinnamon, sea salt, baking soda"
+            }
+        },
+        "Dinner": {
+            "Seasoned Roasted Chicken": {
+                "description": "Lightly seasoned roasted chicken breast",
+                "Serving Size": ":  3.5 oz",
+                "Calories": ": 149.13",
+                "Fat (g)": ": 7.88",
+                "Carbohydrates (g)": ": 0.75",
+                "Protein (g)": ": 17.73",
+                "Allergens": "Halal boneless skinless chicken breast, kosher salt, garlic powder, onion powder, paprika, thyme, ground black pepper"
+            },
+            "Tabouli Salad": {
+                "description": "Steamed quinoa tossed with carrots and cucumber",
+                "Serving Size": ":  3 oz",
+                "Calories": ": 270.05",
+                "Fat (g)": ": 13.9",
+                "Carbohydrates (g)": ": 30.85",
+                "Protein (g)": ": 6.8",
+                "Allergens": "Quinoa, extra virgin olive oil, cucumber, tomatoes, carrots, spinach, green onion, lemon juice, fresh Italian parsley, kosher salt, ground black pepper"
+            },
+            "Sweet & Sour Tofu": {
+                "description": "Crispy fried tofu marinated in our house sweet & sour sauce",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 123.95",
+                "Fat (g)": ": 7.71",
+                "Carbohydrates (g)": ": 9.78",
+                "Protein (g)": ": 4.41",
+                "Allergens": "*Ingredient prepared in a fryer that`s not allergen-free/Alcohol [vanilla extract]/Gluten/Soy/Wheat",
+                "Ingredients": "Firm tofu, house-made sweet and sour sauce (rice vinegar, beet sugar, ketchup [tomato concentrate made from red ripe tomatoes, distilled vinegar, high fructose corn syrup, corn syrup, salt, spice, onion powder, natural flavoring], cornstarch, lime juice, green bell peppers, carrots, yellow onion, light brown beet sugar, less-sodium soy sauce [water, soybeans, wheat, salt, lactic acid, sodium benzoate], pineapple, canola oil, pure vanilla extract, red food coloring [water, U.S. Certified Colors {FD&C red #40 and blue #1}, citric acid, 1/10 of 1% benzoate of soda], Tabasco hot sauce [distilled vinegar, red pepper, salt]), canola oil, cornstarch"
+            },
+            "Sticky Rice": {
+                "description": "Steamed white calrose rice",
+                "Serving Size": ": 1/2 cup (3 oz)",
+                "Calories": ": 161.7",
+                "Fat (g)": ": 0.26",
+                "Carbohydrates (g)": ": 35.64",
+                "Protein (g)": ": 2.97",
+                "Allergens": "White rice, water"
+            },
+            "Red Curry Fish": {
+                "description": "Swai fish baked and seasoned with house red curry sauce.",
+                "Serving Size": ": 1 SV",
+                "Calories": ": 364.33",
+                "Fat (g)": ": 28.54",
+                "Carbohydrates (g)": ": 9.96",
+                "Protein (g)": ": 21.32",
+                "Allergens": "Fish/Shellfish/Coconut",
+                "Ingredients": "Swai fish, house red curry sauce (coconut milk, yellow onion, canola oil, fresh Thai basil, Mae Ploy red curry paste [garlic, dried red chili, lemongrass, shallot, salt, galangal, shrimp paste, kaffir lime peel, pepper. May contain traces of fish], beet sugar, iodized salt, fresh galanga), canola oil"
+            },
+            "Jasmine Rice": {
+                "description": "Steamed jasmine rice",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 178.44",
+                "Fat (g)": ": 0",
+                "Carbohydrates (g)": ": 40.1",
+                "Protein (g)": ": 3.34",
+                "Allergens": "Jasmine rice cooked in water"
+            },
+            "Napa Cabbage Saute": {
+                "description": "Saut\u00e9ed Napa cabbage, bok choy, and red cabbage",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 22.01",
+                "Fat (g)": ": 1.27",
+                "Carbohydrates (g)": ": 2.42",
+                "Protein (g)": ": 1.05",
+                "Allergens": "Soybean Oil/Sesame",
+                "Ingredients": "Napa cabbage, bok choy, red cabbage, canola oil, Asian chili oil (soybean oil, chili), sesame oil, kosher salt, ground black pepper"
+            },
+            "Meatball Sub": {
+                "description": "Beef meatballs served on a hoagie roll with house marinara sauce.",
+                "Serving Size": ": 1 sandwich",
+                "Calories": ": 1090.59",
+                "Fat (g)": ": 16.59",
+                "Carbohydrates (g)": ": 160.43",
+                "Protein (g)": ": 40.28",
+                "Allergens": "Gluten/Soybean Oil/Wheat/Mushroom/Alcohol/Dairy/Egg/Soy",
+                "Ingredients": "Hoagie roll (contains wheat/gluten and soy), house-made marinara sauce (contains alcohol and mushroom), beef meatballs (contains wheat/gluten, dairy, egg, and soy)||"
+            },
+            "Falafel Burger": {
+                "description": "Deep-fried house made chickpea patties with cucumber mint spread and harissa pickled onions on a toasted sesame bun.",
+                "Serving Size": ": 1 SV",
+                "Calories": ": 612.43",
+                "Fat (g)": ": 29.69",
+                "Carbohydrates (g)": ": 72.04",
+                "Protein (g)": ": 15.56",
+                "Allergens": "*Ingredient prepared in a fryer that`s not allergen-free/Coconut/Soy/Soybean Oil/Sesame/Gluten/Wheat",
+                "Ingredients": "House-made falafel patty (garbanzo beans, Panko breadcrumbs [bleached wheat flour, shortening {palm oil}, sugar, yeast, salt], fresh cilantro, bulgur wheat, lemon juice, iodized salt, garlic, ground cumin, crushed red pepper, ground black pepper), sesame hamburger bun (enriched unbleached wheat flour [wheat flour, malted barley flour, niacin, iron, thiamin mononitrate, riboflavin, folic acid], water, high fructose corn syrup, yeast, vegetable oil [canola and/or soy], vital wheat gluten, salt, ammonium sulfate, mono-diglycerides, sodium stearoyl lactylate, ascorbic acid, monocalcium phosphate, azodicarbonamide, calcium sulfate, enzymes, calcium propionate, sesame seeds), vegan mint sauce (Kraft vegan mayonnaise [expeller-pressed canola oil, water, organic distilled vinegar. Contains less than 2% of salt, modified food starch, cane sugar, spice, natural flavor, lemon, oleoresin paprika], vegan sour cream [filtered water, coconut cream, expeller-pressed high-oleic safflower oil, organic coconut oil, organic tapioca maltodextrin. Contains less than 2% of natural flavors, tapioca starch, pectin, glucono delta lactone, gellan gum, organic lemon juice concentrate, calcium phosphate, locust bean gum, lactic acid, calcium lactate, guar gum, sea salt, sodium alginate], cucumber, fresh mint, tahini paste [contains sesame], lemon juice), tomatoes, pickled onions (red onion, red wine vinegar, beet sugar, kosher salt, green Jalapeno pepper, ground cumin, ground Cayenne pepper, smoked paprika), canola oil, butter lettuce"
+            },
+            "Shoestring Fries": {
+                "description": "Crispy deep-fried thin cut potato fries",
+                "Serving Size": ": 3 oz",
+                "Calories": ": 201.6",
+                "Fat (g)": ": 12",
+                "Carbohydrates (g)": ": 21.13",
+                "Protein (g)": ": 1.84",
+                "Allergens": "Soybean Oil/*Ingredient prepared in a fryer that`s not allergen-free",
+                "Ingredients": "Shoestring fries (potatoes, vegetable oil [soybean, canola, cottonseed, and/or sunflower], modified food starch. Contains less than 2% of dextrose, leavening [sodium acid pyrophosphate, sodium bicarbonate], rice flour, salt, xanthan gum, disodium, dihydrogen pyrophosphate), canola fryer oil, seasoned salt (salt, onion powder, granulated garlic, ground paprika, sugar, white ground pepper)"
+            },
+            "Salami and Mushroom Pizza": {
+                "description": "Topped with sliced mushrooms and salami, with a blend of Mozzerella and Parmesan cheese",
+                "Serving Size": ": 1 slice (3.5 oz)",
+                "Calories": ": 276.07",
+                "Fat (g)": ": 11.31",
+                "Carbohydrates (g)": ": 31.78",
+                "Protein (g)": ": 11.16",
+                "Allergens": "Dairy/Mushroom/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Pizza dough (enriched unbleached wheat flour, water, yeast. Contains less than 2% of palm oil, buttermilk, salt, sugar, soybean oil, leavening, Cheddar cheese, low moisture part skim Mozzarella cheese, whey powder, garlic powder, guar gum, malted barley flour, dextrose, xanthan gum, datem, sodium phosphate, lactic acid, enzyme, ascorbic acid. May contain egg and soy), house-made pizza sauce (pear tomatoes, garlic, salt, ground black pepper, oregano, Italian seasoning, basil, ground Cayenne pepper, thyme, marjoram), salami (pork, nonfat dry milk, dextrose, salt. Contains 2% or less of natural spices, wine, ascorbic acid, granulated garlic, lactic acid starter culture, sodium nitrite, sodium nitrate. Coated with rice flour), whole milk Mozzarella cheese, mushrooms, Parmesan cheese, canola oil, garlic, Italian seasoning"
+            },
+            "Veggie Pesto Pizza": {
+                "description": "Savory artichoke, tomato, and red onion drizzled with our house-made arugula walnut \"phesto\"",
+                "Serving Size": ": 1 slice",
+                "Calories": ": 241.54",
+                "Fat (g)": ": 10.36",
+                "Carbohydrates (g)": ": 28.67",
+                "Protein (g)": ": 8.09",
+                "Allergens": "Dairy/Tree Nuts/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Pizza dough (enriched unbleached wheat flour [wheat flour, niacin, ferrous sulfate, thiamin mononitrate, enzyme, riboflavin, folic acid], water, yeast. Contains less than 2% of palm oil, buttermilk, salt, sugar, soybean oil, leavening [baking soda, sodium aluminum phosphate], cheddar cheese [milk, cheese cultures, salt, enzymes], low moisture part skim mozzarella cheese [pasteurized part skim milk, cheese culture, salt, enzyme], whey powder, garlic powder, guar gum, malted barley flour, dextrose, xanthan gum, datem, sodium phosphate, lactic acid, enzyme, ascorbic acid. May contain egg and soy), whole milk Mozzarella (pasteurized milk, cheese cultures, salt, enzymes), house arugula phesto\" spread (canola/olive oil blend, wild arugula, fresh basil, walnuts, garlic, salt, lemon juice, ground black pepper), artichoke hearts (quartered artichoke hearts, water, salt, citric acid, ascorbic acid), tomato, Parmesan cheese (pasteurized milk, cheese cultures, salt, enzymes), red onion, California olives (ripe olives, water, salt, ferrous gluconate. May contain pits), fresh basil, green onion, canola oil, garlic, Italian seasoning (marjoram, thyme, rosemary, savory, sage, oregano, and basil)\""
+            },
+            "Zuppa Toscana": {
+                "description": "Italian-style soup with sweet pork sausage, bacon, kale, onions & garlic; simmered in chicken broth with diced tomatoes",
+                "Serving Size": ": 1 cup",
+                "Calories": ": 353.78",
+                "Fat (g)": ": 26.38",
+                "Carbohydrates (g)": ": 490.48",
+                "Protein (g)": ": 15.13",
+                "Allergens": "Soybean Oil/Dairy",
+                "Ingredients": "Sweet Italian pork sausage (pork, water. Contains less than 2% of dextrose, flavoring, paprika, salt, spice, turbinado sugar), hash brown potatoes (potatoes, vegetable oil [soybean, canola, cottonseed, and/or sunflower], contains less than 2% of dextrose, maltodextrin, sea salt, tetrasodium pyrophosphate, disodium dihydrogen pyrophosphate), heavy whipping cream, yellow onion, kale, bacon, gluten-free chicken soup base (chicken broth, salt, sugar, yeast extract, chicken fat, modified corn starch, citric acid, natural flavor), garlic, crushed red pepper"
+            },
+            "Moroccan Roasted Vegetable Soup": {
+                "description": "Root vegetables roasted with cinnamon, cumin, and coriander, simmered in vegetable broth with fresh herbs",
+                "Serving Size": ": 1 cup",
+                "Calories": ": 109.02",
+                "Fat (g)": ": 4.94",
+                "Carbohydrates (g)": ": 16.27",
+                "Protein (g)": ": 1.59",
+                "Allergens": "Mushroom",
+                "Ingredients": "Tomatoes, carrots, gluten-free vegetable soup base (reconstituted vegetable juice blend [water and concentrated juices of carrot, celery, tomato], maltodextrin, salt, sugar, onion juice concentrate, yeast extract, cabbage juice, garlic powder, mushroom extract, spice, natural flavor), yams rutabaga, parsnips, turnips, leeks, canola oil, red bell pepper, celery, yellow onion, garlic, corn starch, apple cider vinegar, Jalapeno peppers, iodized salt, ground black pepper, basil, parsley, ground coriander, cinnamon, cumin, crushed red pepper"
+            },
+            "Double Chocolate Cake": {
+                "Serving Size": ": 3 oz",
+                "Calories": ": 254.02",
+                "Fat (g)": ": 10.74",
+                "Carbohydrates (g)": ": 38.11",
+                "Protein (g)": ": 2.93",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached flour (wheat flour, niacin, iron, thiamine mononitrate, riboflavin, folic acid), water, vegetable oil (soybean, palm), skim milk, high fructose corn syrup, eggs, corn syrup, cocoa processed with alkali. Contains 2% or less of chocolate processed with alkali, mono- and diglycerides, corn starch, salt, modified corn starch, vanillin (artificial flavor), leavening (baking soda, sodium aluminum phosphate, monocalcium phosphate), sodium alginate, gums (arabic, gellan, xanthan), polysorbate 60, lactylic esters of fatty acids, soy lecithin, propylene glycol alginate, potassium sorbate"
+            },
+            "Vegan Oatmeal Raisin Cookie": {
+                "Serving Size": ": 1 cookie",
+                "Calories": ": 177",
+                "Fat (g)": ": 6.1",
+                "Carbohydrates (g)": ": 41",
+                "Protein (g)": ": 3",
+                "Allergens": "Alcohol [vanilla extract]/Gluten/Wheat",
+                "Ingredients": "Oatmeal, organic evaporated cane sugar, California raisins, unbleached wheat flour, sustainable RSPO palm oil shortening, grape juice, rice dextrins, pure vanilla extract, cinnamon, sea salt, baking soda"
+            }
+        }
+    },
+    "segundo": {
+        "Breakfast": {
+            "Pork Link Sausage": {
+                "description": "Traditional pork sausage with a touch of fennel and black pepper",
+                "Serving Size": ": 3 oz",
+                "Calories": ": 335.44",
+                "Fat (g)": ": 32.15",
+                "Carbohydrates (g)": ": 1.4",
+                "Protein (g)": ": 8.38",
+                "Allergens": "No Major Allergens",
+                "Ingredients": "Pork sausage link (pork, water. Contains 2% or less of salt, sugar, spices, chili pepper, flavoring, smoke flavor. Packed in collagen casing)"
+            },
+            "Bacon": {
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "No Major Allergens"
+            },
+            "Scrambled Eggs": {
+                "description": "Softly scrambled cage-free eggs",
+                "Serving Size": ": 3 oz",
+                "Calories": ": 129.1",
+                "Fat (g)": ": 8.77",
+                "Carbohydrates (g)": ": 0",
+                "Protein (g)": ": 10.89",
+                "Allergens": "Egg",
+                "Ingredients": "Cage-free eggs, canola oil"
+            },
+            "Cheesey Scrambled Eggs": {
+                "description": "Softly scrambled cage-free eggs and cheese",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Egg/Dairy"
+            },
+            "Tater Tots": {
+                "description": "Crispy fried tater tots.",
+                "Serving Size": ": 4 oz",
+                "Calories": ": 279",
+                "Fat (g)": ": 20.27",
+                "Carbohydrates (g)": ": 21.33",
+                "Protein (g)": ": 1.86",
+                "Allergens": "Soybean Oil/*Ingredient prepared in a fryer that`s not allergen-free",
+                "Ingredients": "Tater tot potatoes (potatoes, vegetable oil [soybean, canola, cottonseed, and/or sunflower], Contains less than 2% of dextrose, sea salt, disodium dihydrogen pyrophosphate), canola fryer oil"
+            },
+            "House Roasted Salsa || Sour Cream": {},
+            "Over Night Oats": {
+                "description": "Rolled oats prepared in soy milk, yogurt, & honey. Granished with fresh berries, almond butter, & our house chocolate granola",
+                "Serving Size": ": bowl",
+                "Calories": ": 569.53",
+                "Fat (g)": ": 29.24",
+                "Carbohydrates (g)": ": 64.9",
+                "Protein (g)": ": 16.89",
+                "Allergens": "Gluten/Wheat/Soy/Dairy/Coconut/Tree Nuts/Peanuts",
+                "Ingredients": "Rolled oats (vanilla soy milk [filtered water, soybeans, cane sugar, sea salt, gellan gum, natural flavor], old fashioned whole grain rolled oats [per manufacturer, may contain wheat/gluten], coconut milk, vanilla Greek yogurt [cultured grade A nonfat milk, water, cane sugar, corn starch. Contains less than 1% of natural flavors, lemon juice concentrate, carob bean gum, vegetable juice, vitamin d3], steamed quinoa [cooked in water], beet sugar, pure clover honey, chia seeds, ground cinnamon, kosher salt), strawberries, almond butter, house-made chocolate granola (old fashioned whole grain oats [per manufacturer, may contain wheat/gluten], seedless raisins, sunflower seeds, unsalted butter, pure clover honey, peanut-free mixed nuts [cashews, almonds, sunflower oil and/or cottonseed oil, pecans, hazelnuts, dried Brazil nuts, salt], light brown beet sugar, molasses, cocoa powder [processed with alkali. May contain soy and milk]), blueberries, coconut flakes (coconut, sugar, water, propylene glycol, salt, sodium metabisulfite. Per manufacturer, contains tree nuts)"
+            },
+            "Housemade Granola": {
+                "description": "Crunchy and sweet granola made with mixed nuts and old fashioned rolled oats",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 360.18",
+                "Fat (g)": ": 17.33",
+                "Carbohydrates (g)": ": 47.13",
+                "Protein (g)": ": 8.03",
+                "Allergens": "Gluten/Wheat/Dairy/Peanuts/Tree Nuts",
+                "Ingredients": "Old fashioned rolled oats (per manufacturer, may contain wheat/gluten), sunflower seeds, seedless raisins, unsalted butter, pure clover honey, peanut-free mixed nuts (cashews, almonds, sunflower oil and/or cottonseed oil, pecans, hazelnuts, dried Brazil nuts, salt), light brown beet sugar, molasses"
+            },
+            "Fruit Salad": {
+                "description": "A delicious and nutritious blend of fresh fruit!",
+                "Serving Size": ":  1/2 Cup",
+                "Calories": ": 42.3",
+                "Fat (g)": ": 0.64",
+                "Carbohydrates (g)": ": 9.79",
+                "Protein (g)": ": 0.49",
+                "Allergens": "No Major Allergens",
+                "Ingredients": "Cantaloupe, pineapple, red grapes, honeydew melon"
+            },
+            "Oatmeal": {
+                "description": "Hot old-fashioned rolled oats (may contain wheat/gluten)",
+                "Serving Size": ": 7 oz",
+                "Calories": ": 105.04",
+                "Fat (g)": ": 1.94",
+                "Carbohydrates (g)": ": 18.85",
+                "Protein (g)": ": 3.6",
+                "Allergens": "Gluten/Wheat",
+                "Ingredients": "Whole grain oats (per manufacturer, may contain wheat/gluten) cooked in water and a pinch of salt."
+            },
+            "Hard Boiled Eggs": {
+                "description": "Cage-free, hard boiled eggs",
+                "Serving Size": ": 1 each",
+                "Calories": ": 71.5",
+                "Fat (g)": ": 4.76",
+                "Carbohydrates (g)": ": 0.36",
+                "Protein (g)": ": 6.28",
+                "Allergens": "Egg",
+                "Ingredients": "Cage free eggs"
+            },
+            "Sticky Rice": {
+                "description": "Steamed white calrose rice",
+                "Serving Size": ": 1/2 cup (3 oz)",
+                "Calories": ": 161.7",
+                "Fat (g)": ": 0.26",
+                "Carbohydrates (g)": ": 35.64",
+                "Protein (g)": ": 2.97",
+                "Allergens": "No Major Allergens",
+                "Ingredients": "White rice, water"
+            },
+            "Mini Onion Bagel": {
+                "description": "Per manufacturer, produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": 1 bagel",
+                "Calories": ": 359.99",
+                "Fat (g)": ": 2.5",
+                "Carbohydrates (g)": ": 71",
+                "Protein (g)": ": 12.99",
+                "Allergens": "Gluten/Soybean Oil/Wheat",
+                "Ingredients": "Enriched unbleached flour (wheat flour, malted barley flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid), water, onions, brown sugar, malt (corn syrup, malt syrup), salt, poppy seeds, enzyme (wheat flour, enzymes, ascorbic acid), yeast (yeast, sorbitan monostearate, ascorbic acid), dough improver (wheat flour, monoglycerides, ascorbic acid. Contains 2% or less of enzymes, soybean oil), vinegar, minced onions. Per manufacturer, produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Apple Cinnamon Muffin": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": each",
+                "Calories": ": 150",
+                "Fat (g)": ": 10",
+                "Carbohydrates (g)": ": 25",
+                "Protein (g)": ": 3",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached wheat flour, modified food starch, soybean oil, dry whey, leavening, salt, vital wheat gluten, propylene glycol mono- and diglycerides of fatty acids, mono- and diglycerides, sodium stearoyl lactylate, dextrose, corn starch, tricalcium phosphate, soya flour, dry whole eggs, natural and artificial flavor, water, ascorbic acid, alpha tocopherol, citric acid, apple filling, high fructose corn syrup, water, sugar, modified corn starch. Contains 2% or less of lemon juice, apple juice concentrate, cinnamon, potassium sorbate, salt, citric acid, nutmeg, eggs, soybean oil, water, cinnamon. Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Chocolate Cake Donut with Sprinkles": {
+                "description": "Produced in a facility that also uses milk, eggs, fish, tree nuts, peanuts, wheat, and soybeans.",
+                "Serving Size": ": each",
+                "Calories": ": 290",
+                "Fat (g)": ": 11",
+                "Carbohydrates (g)": ": 45",
+                "Protein (g)": ": 4",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Enriched bleached wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), sugar, soybean oil, nonfat dry milk, leavening. Contains 2% or less of corn flour, defatted soy flour, dried egg yolks, salt, dextrose, corn starch, sodium caseinate, potato flour, vital wheat gluten, cellulose gum, spice, natural and artificial flavor (milk), palm oil, chocolate icing (contains soy and soybean oil), water, sprinkles (contains soy and soybean oil). Produced in a facility that also uses milk, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            }
+        },
+        "Lunch": {
+            "Pork Link Sausage": {
+                "description": "Traditional pork sausage with a touch of fennel and black pepper",
+                "Serving Size": ": 3 oz",
+                "Calories": ": 335.44",
+                "Fat (g)": ": 32.15",
+                "Carbohydrates (g)": ": 1.4",
+                "Protein (g)": ": 8.38",
+                "Allergens": "No Major Allergens",
+                "Ingredients": "Pork sausage link (pork, water. Contains 2% or less of salt, sugar, spices, chili pepper, flavoring, smoke flavor. Packed in collagen casing)"
+            },
+            "Bacon": {
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "No Major Allergens"
+            },
+            "Scrambled Eggs": {
+                "description": "Softly scrambled cage-free eggs",
+                "Serving Size": ": 3 oz",
+                "Calories": ": 129.1",
+                "Fat (g)": ": 8.77",
+                "Carbohydrates (g)": ": 0",
+                "Protein (g)": ": 10.89",
+                "Allergens": "Egg",
+                "Ingredients": "Cage-free eggs, canola oil"
+            },
+            "Cheesey Scrambled Eggs": {
+                "description": "Softly scrambled cage-free eggs and cheese",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Egg/Dairy"
+            },
+            "Tater Tots": {
+                "description": "Crispy fried tater tots.",
+                "Serving Size": ": 4 oz",
+                "Calories": ": 279",
+                "Fat (g)": ": 20.27",
+                "Carbohydrates (g)": ": 21.33",
+                "Protein (g)": ": 1.86",
+                "Allergens": "Soybean Oil/*Ingredient prepared in a fryer that`s not allergen-free",
+                "Ingredients": "Tater tot potatoes (potatoes, vegetable oil [soybean, canola, cottonseed, and/or sunflower], Contains less than 2% of dextrose, sea salt, disodium dihydrogen pyrophosphate), canola fryer oil"
+            },
+            "House Roasted Salsa || Sour Cream": {},
+            "Creamy Butternut Pasta with Peas": {
+                "description": "Lentil penne pasta with a house plant-based creamy tomato sauce and topped with peas, butternut squash, and tomatoes",
+                "Serving Size": ": 1 bowl (12.5 oz)",
+                "Calories": ": 505.3",
+                "Fat (g)": ": 32.23",
+                "Carbohydrates (g)": ": 42.69",
+                "Protein (g)": ": 10.9",
+                "Allergens": "No Major Allergens",
+                "Ingredients": "Lentil penne pasta (gluten-free lentil penne pasta [red lentil flour, white rice, pea protein], canola/olive oil blend, kosher salt), allergy-friendly vegan cream sauce (plant-based vegan cream [lentil milk [water, lentil protein], palm kernel oil, canola oil, palm oil, sugar, modified corn starch, sucrose esters of fatty acid, natural flavor, mono- and di-glycerides, salt, guar gum, sunflower lecithin, locust bean gum, beta-carotene], cornstarch, lemon juice, gluten-free chicken soup base [roasted and cooked chicken meat, salt, sugar, chicken fat, corn starch, hydrolyzed corn protein, autolyzed yeast extract, potassium chloride, maltodextrin, chicken broth, natural flavors, disodium inosinate, disodium guanylate, cooked chicken powder, turmeric], kosher salt), butternut squash, peas, tomatoes, yellow onion, canola/olive oil blend"
+            },
+            "Spring Greens & Berries  ||": {
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "No Major Allergens "
+            },
+            "Philly Cheese Steak ": {
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat "
+            },
+            "Falafel Burger": {
+                "description": "Deep-fried house made chickpea patties with cucumber mint spread and harissa pickled onions on a toasted sesame bun.",
+                "Serving Size": ": 1 SV",
+                "Calories": ": 612.43",
+                "Fat (g)": ": 29.69",
+                "Carbohydrates (g)": ": 72.04",
+                "Protein (g)": ": 15.56",
+                "Allergens": "*Ingredient prepared in a fryer that`s not allergen-free/Coconut/Soy/Soybean Oil/Sesame/Gluten/Wheat",
+                "Ingredients": "House-made falafel patty (garbanzo beans, Panko breadcrumbs [bleached wheat flour, shortening {palm oil}, sugar, yeast, salt], fresh cilantro, bulgur wheat, lemon juice, iodized salt, garlic, ground cumin, crushed red pepper, ground black pepper), sesame hamburger bun (enriched unbleached wheat flour [wheat flour, malted barley flour, niacin, iron, thiamin mononitrate, riboflavin, folic acid], water, high fructose corn syrup, yeast, vegetable oil [canola and/or soy], vital wheat gluten, salt, ammonium sulfate, mono-diglycerides, sodium stearoyl lactylate, ascorbic acid, monocalcium phosphate, azodicarbonamide, calcium sulfate, enzymes, calcium propionate, sesame seeds), vegan mint sauce (Kraft vegan mayonnaise [expeller-pressed canola oil, water, organic distilled vinegar. Contains less than 2% of salt, modified food starch, cane sugar, spice, natural flavor, lemon, oleoresin paprika], vegan sour cream [filtered water, coconut cream, expeller-pressed high-oleic safflower oil, organic coconut oil, organic tapioca maltodextrin. Contains less than 2% of natural flavors, tapioca starch, pectin, glucono delta lactone, gellan gum, organic lemon juice concentrate, calcium phosphate, locust bean gum, lactic acid, calcium lactate, guar gum, sea salt, sodium alginate], cucumber, fresh mint, tahini paste [contains sesame], lemon juice), tomatoes, pickled onions (red onion, red wine vinegar, beet sugar, kosher salt, green Jalapeno pepper, ground cumin, ground Cayenne pepper, smoked paprika), canola oil, butter lettuce"
+            },
+            "Shoestring Fries": {
+                "description": "Crispy deep-fried thin cut potato fries",
+                "Serving Size": ": 3 oz",
+                "Calories": ": 201.6",
+                "Fat (g)": ": 12",
+                "Carbohydrates (g)": ": 21.13",
+                "Protein (g)": ": 1.84",
+                "Allergens": "Soybean Oil/*Ingredient prepared in a fryer that`s not allergen-free",
+                "Ingredients": "Shoestring fries (potatoes, vegetable oil [soybean, canola, cottonseed, and/or sunflower], modified food starch. Contains less than 2% of dextrose, leavening [sodium acid pyrophosphate, sodium bicarbonate], rice flour, salt, xanthan gum, disodium, dihydrogen pyrophosphate), canola fryer oil, seasoned salt (salt, onion powder, granulated garlic, ground paprika, sugar, white ground pepper)"
+            },
+            "Menudo": {
+                "description": "Traditional pork and beef stew featuring beef tripe with hominy and chili peppers.",
+                "Serving Size": ": 1 cup",
+                "Calories": ": 147.07",
+                "Fat (g)": ": 6.9",
+                "Carbohydrates (g)": ": 5.36",
+                "Protein (g)": ": 15",
+                "Allergens": "Tripe (beef), pork feet, white hominy, Chile pepper mix (Guajillo chiles, Ancho chiles, Chiles de Arbol, dried oregano), salt, distilled vinegar, yellow onion, Ancho chile powder, ground cumin"
+            },
+            "Thai Curry Soup": {
+                "description": "A medley of potatoes, carrots, and bell peppers in a thai coconut curry broth.",
+                "Serving Size": ": 1 cup",
+                "Calories": ": 153.37",
+                "Fat (g)": ": 10.12",
+                "Carbohydrates (g)": ": 15.61",
+                "Protein (g)": ": 1.98",
+                "Allergens": "Soybean Oil/Mushroom/Coconut",
+                "Ingredients": "House curry sauce (coconut milk, curry paste [tomato paste, vinegar, expeller pressed canola oil, granulated onion, spices, glycerine, curry paste {lemongrass, spices, shallot, salt, kaffir lime peel, turmeric}, salt, paprika, turmeric], light brown beet sugar, modified corn starch, lime juice, garlic, ginger, Serrano pepper, canola oil, iodized salt, fresh lemongrass), bok choy, hash brown potatoes (potatoes, vegetable oil [soybean, canola, cottonseed, and/or sunflower], contains less than 2% of dextrose, maltodextrin, sea salt, tetrasodium pyrophosphate, disodium dihydrogen pyrophosphate), carrot, red and yellow bell pepper, red onion, gluten-free vegetable soup base (reconstituted vegetable juice blend [water and concentrated juices of carrot, celery, tomato], maltodextrin, salt, sugar, onion juice concentrate, yeast extract, cabbage juice, garlic powder, mushroom extract, spice, natural flavor), modified corn starch, lime juice, salt, fresh cilantro, curry powder, ground coriander, crushed red pepper, paprika"
+            },
+            "Classic Potato Salad": {
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 230.01",
+                "Fat (g)": ": 12",
+                "Carbohydrates (g)": ": 28",
+                "Protein (g)": ": 3",
+                "Allergens": "Egg/Soybean Oil",
+                "Ingredients": "Potatoes, mayonnaise (soybean oil, water, egg yolks, vinegar, salt), sugar, celery, water, sweet pickle relish (cucumbers, sugar, distilled vinegar, salt. Contains less than 2% of mustard seed, xanthan gum, calcium chloride, celery seed, dehydrated red bell pepper, natural flavoring, turmeric, minced onion), mustard (water, vinegar, mustard seed, salt, sugar, soybean oil, turmeric and paprika, garlic powder, spices, xanthan gum, annatto color, citric acid, natural flavor), onion, vinegar, red bell pepper, salt, modified corn starch, black pepper, sodium benzoate, potassium sorbate, xanthan gum, annatto color"
+            },
+            "Classic Macaroni Salad": {
+                "Serving Size": ": 1 serving",
+                "Calories": ": 320",
+                "Fat (g)": ": 22",
+                "Carbohydrates (g)": ": 27",
+                "Protein (g)": ": 5",
+                "Allergens": "Egg/Gluten/Soybean Oil/Wheat",
+                "Ingredients": "Macaroni (semolina wheat flour [enriched with niacin, iron, thiamine mononitrate, riboflavin, folic acid], egg white), mayonnaise (soybean oil, water, egg yolks, vinegar, salt), sweet pickle relish (cucumbers, sugar, distilled vinegar, salt, contains less than 2% of mustard seed, xanthan gum, calcium chloride, celery seed, dehydrated red bell pepper, natural flavoring, turmeric, minced onion), water, celery, sugar, onion, red bell pepper, salt, vinegar, mustard (water, vinegar, mustard seed, salt, sugar, soybean oil, turmeric and paprika, garlic powder, spices, xanthan gum, annatto color, citric acid, natural flavor), modified corn starch, sodium benzoate, potassium sorbate, annatto extract, xanthan gum"
+            },
+            "Caesar Salad": {
+                "description": "Traditional Caesar salad with Romaine lettuce, Parmesan cheese, croutons, and Caesar dressing",
+                "Serving Size": ": 1 SV",
+                "Calories": ": 501.86",
+                "Fat (g)": ": 41.48",
+                "Carbohydrates (g)": ": 23.93",
+                "Protein (g)": ": 15.54",
+                "Allergens": "Dairy/Gluten/Soybean Oil/Tree Nuts/Wheat/Egg/Fish/Soy",
+                "Ingredients": "Romaine lettuce, Tuscan Caesar dressing (soybean oil, water, high fructose corn syrup, Parmesan and Romano cheese [pasteurized cultured milk, salt, enzymes], distilled vinegar, egg yolk, salt. Contains less than 1.5% of anchovy paste [anchovies, salt, defatted soy flour, water], dried garlic, mustard, citric acid, spice, xanthan gum, potassium sorbate, sodium benzoate, calcium disodium EDTA, dried onion, lemon juice concentrate, lactic acid, disodium inosinate, disodium guanylate, extractives of turmeric, caramel color, artificial flavor), Parmesan cheese, cheesy garlic croutons (enriched flour [wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid], canola and/or sunflower oil, high fructose corn syrup, Romano cheese powder [pasteurized part skim cow`s milk, cheese culture, salt, enzyme], whey, buttermilk solids, maltodextrin, salt, sodium citrate, yeast. Contains 2% or less of salt, garlic powder, partially hydrogenated soybean oil, whey powder, sorbic acid, Romano and Parmesan cheese flavor [whey, sunflower oil, maltodextrin, Parmesan cheese {pasteurized part skim milk, cheese culture, salt, enzymes}, salt, enzyme-modified Romano cheese {pasteurized cow`s milk, culture, salt, enzymes} salt], yeast extract, citric acid, lactic acid, sodium phosphate, buttermilk powder, parsley flakes, calcium propionate, spices, soybean oil, natural flavors, rosemary extractives, extractives of turmeric and annatto, TBHQ. Per manufacturer, may contain tree nuts)"
+            },
+            "Deli Bar": {
+                "description": "Assorted Meats and Cheeses with your favorite spreads, breads and veggies",
+                "Serving Size": ": 1 EA",
+                "Calories": ": -1",
+                "Fat (g)": ": -1",
+                "Carbohydrates (g)": ": -1",
+                "Protein (g)": ": -1"
+            },
+            "M&M Brownies": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": each",
+                "Calories": ": 210",
+                "Fat (g)": ": 10",
+                "Carbohydrates (g)": ": 29",
+                "Protein (g)": ": 2",
+                "Allergens": "Alcohol/Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached wheat flour, vegetable shortening (contains soybean oil), cocoa, dried egg whites, corn starch, dried whey, soy flour, artificial flavor, salt, water, soybean oil, milk chocolate (sugar, cocoa butter, chocolate liquor, whole milk powder, soy lecithin, vanilla), sugar, artificial color, corn syrup, wax, dextrin. Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            }
+        },
+        "Dinner": {}
+    },
+    "tercero": {
+        "Breakfast": {
+            "Make Your Own Omelet": {},
+            "Breakfast Bar": {},
+            "Eggs Fried to Order": {
+                "description": "Consuming raw or undercooked eggs may increase risk of foodborne illness, especially for those with certain medical conditions",
+                "Serving Size": ": each",
+                "Calories": ": 71.5",
+                "Fat (g)": ": 4.75",
+                "Carbohydrates (g)": ": 0.36",
+                "Protein (g)": ": 6.28",
+                "Allergens": "Egg",
+                "Ingredients": "Eggs"
+            },
+            "Ranchero Style Breakfast Quesadilla": {
+                "description": "Cheese quesadilla folded in a tomato basil tortilla and topped with a fried egg and Ranchero sauce",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Dairy, Gluten, Egg, Mushroom"
+            },
+            "Vegan Ranchero Style Breakfast Quesadilla": {
+                "description": "Vegan cheese quesadilla folded in a tomato basil tortilla and topped with Ranchero sauce",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Gluten, Mushroom"
+            },
+            "Housemade Granola": {
+                "description": "Crunchy and sweet granola made with mixed nuts and old fashioned rolled oats",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 360.18",
+                "Fat (g)": ": 17.33",
+                "Carbohydrates (g)": ": 47.13",
+                "Protein (g)": ": 8.03",
+                "Allergens": "Gluten/Wheat/Dairy/Peanuts/Tree Nuts",
+                "Ingredients": "Old fashioned rolled oats (per manufacturer, may contain wheat/gluten), sunflower seeds, seedless raisins, unsalted butter, pure clover honey, peanut-free mixed nuts (cashews, almonds, sunflower oil and/or cottonseed oil, pecans, hazelnuts, dried Brazil nuts, salt), light brown beet sugar, molasses"
+            },
+            "Fruit Salad": {
+                "description": "A delicious and nutritious blend of fresh fruit!",
+                "Serving Size": ":  1/2 Cup",
+                "Calories": ": 42.3",
+                "Fat (g)": ": 0.64",
+                "Carbohydrates (g)": ": 9.79",
+                "Protein (g)": ": 0.49",
+                "Allergens": "Cantaloupe, pineapple, red grapes, honeydew melon"
+            },
+            "Oatmeal": {
+                "description": "Hot old-fashioned rolled oats (may contain wheat/gluten)",
+                "Serving Size": ": 7 oz",
+                "Calories": ": 105.04",
+                "Fat (g)": ": 1.94",
+                "Carbohydrates (g)": ": 18.85",
+                "Protein (g)": ": 3.6",
+                "Allergens": "Gluten/Wheat",
+                "Ingredients": "Whole grain oats (per manufacturer, may contain wheat/gluten) cooked in water and a pinch of salt."
+            },
+            "Hard Boiled Eggs": {
+                "description": "Cage-free, hard boiled eggs",
+                "Serving Size": ": 1 each",
+                "Calories": ": 71.5",
+                "Fat (g)": ": 4.76",
+                "Carbohydrates (g)": ": 0.36",
+                "Protein (g)": ": 6.28",
+                "Allergens": "Egg",
+                "Ingredients": "Cage free eggs"
+            },
+            "Mini Onion Bagel": {
+                "description": "Per manufacturer, produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": 1 bagel",
+                "Calories": ": 359.99",
+                "Fat (g)": ": 2.5",
+                "Carbohydrates (g)": ": 71",
+                "Protein (g)": ": 12.99",
+                "Allergens": "Gluten/Soybean Oil/Wheat",
+                "Ingredients": "Enriched unbleached flour (wheat flour, malted barley flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid), water, onions, brown sugar, malt (corn syrup, malt syrup), salt, poppy seeds, enzyme (wheat flour, enzymes, ascorbic acid), yeast (yeast, sorbitan monostearate, ascorbic acid), dough improver (wheat flour, monoglycerides, ascorbic acid. Contains 2% or less of enzymes, soybean oil), vinegar, minced onions. Per manufacturer, produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Apple Cinnamon Muffin": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": each",
+                "Calories": ": 150",
+                "Fat (g)": ": 10",
+                "Carbohydrates (g)": ": 25",
+                "Protein (g)": ": 3",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached wheat flour, modified food starch, soybean oil, dry whey, leavening, salt, vital wheat gluten, propylene glycol mono- and diglycerides of fatty acids, mono- and diglycerides, sodium stearoyl lactylate, dextrose, corn starch, tricalcium phosphate, soya flour, dry whole eggs, natural and artificial flavor, water, ascorbic acid, alpha tocopherol, citric acid, apple filling, high fructose corn syrup, water, sugar, modified corn starch. Contains 2% or less of lemon juice, apple juice concentrate, cinnamon, potassium sorbate, salt, citric acid, nutmeg, eggs, soybean oil, water, cinnamon. Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Chocolate Cake Donut with Sprinkles": {
+                "description": "Produced in a facility that also uses milk, eggs, fish, tree nuts, peanuts, wheat, and soybeans.",
+                "Serving Size": ": each",
+                "Calories": ": 290",
+                "Fat (g)": ": 11",
+                "Carbohydrates (g)": ": 45",
+                "Protein (g)": ": 4",
+                "Allergens": "Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Enriched bleached wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), sugar, soybean oil, nonfat dry milk, leavening. Contains 2% or less of corn flour, defatted soy flour, dried egg yolks, salt, dextrose, corn starch, sodium caseinate, potato flour, vital wheat gluten, cellulose gum, spice, natural and artificial flavor (milk), palm oil, chocolate icing (contains soy and soybean oil), water, sprinkles (contains soy and soybean oil). Produced in a facility that also uses milk, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Maple Donut Vegan": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy.",
+                "Serving Size": ": each",
+                "Calories": ": 370",
+                "Fat (g)": ": 21",
+                "Carbohydrates (g)": ": 43",
+                "Protein (g)": ": 4",
+                "Allergens": "Alcohol [vanilla extract]/Gluten/Soy/Wheat",
+                "Ingredients": "Donut ingredients: unbleached enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), sugar, soybean oil, defatted soy flour, leavening, isolated soy protein, dextrose, wheat starch, salt, natural flavor, cellulose gum, emulsifier, spice, beta carotene, water, palm oil. Icing ingredients: powdered sugar, corn syrup, maple extract, vanilla extract (alcohol, bourbon vanilla beans, water). Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy."
+            }
+        },
+        "Lunch": {
+            "Creamy Butternut Pasta with Peas": {
+                "description": "Lentil penne pasta with a house plant-based cream sauce and topped with peas, butternut squash, and tomatoes",
+                "Serving Size": ": 1 bowl (12.5 oz)",
+                "Calories": ": 720.44",
+                "Fat (g)": ": 45.95",
+                "Carbohydrates (g)": ": 60.87",
+                "Protein (g)": ": 15.54",
+                "Allergens": "No Major Allergens",
+                "Ingredients": "Lentil penne pasta (gluten-free lentil penne pasta [red lentil flour, white rice, pea protein], canola/olive oil blend, kosher salt), allergy-friendly vegan cream sauce (plant-based vegan cream [lentil milk [water, lentil protein], palm kernel oil, canola oil, palm oil, sugar, modified corn starch, sucrose esters of fatty acid, natural flavor, mono- and di-glycerides, salt, guar gum, sunflower lecithin, locust bean gum, beta-carotene], cornstarch, lemon juice, gluten-free chicken soup base [roasted and cooked chicken meat, salt, sugar, chicken fat, corn starch, hydrolyzed corn protein, autolyzed yeast extract, potassium chloride, maltodextrin, chicken broth, natural flavors, disodium inosinate, disodium guanylate, cooked chicken powder, turmeric], kosher salt), butternut squash, peas, tomatoes, yellow onion, canola/olive oil blend"
+            },
+            "Steamed Broccoli": {
+                "description": "Freshly steamed broccoli",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 31",
+                "Fat (g)": ": 0.22",
+                "Carbohydrates (g)": ": 6.97",
+                "Protein (g)": ": 1.83",
+                "Allergens": "No Major Allergens",
+                "Ingredients": "Fresh Broccoli"
+            },
+            "Roasted Sweet Potatoes": {
+                "description": "Sweet Potatoes tossed and roasted with paprika",
+                "Serving Size": ": 3 oz",
+                "Calories": ": 94",
+                "Fat (g)": ": 4",
+                "Carbohydrates (g)": ": 15",
+                "Protein (g)": ": 1",
+                "Allergens": "No Major Allergens"
+            },
+            "Roasted Cauliflower": {
+                "description": "Lightly roasted and seasoned with salt and pepper",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "No Major Allergens"
+            },
+            "Ranchero Style Breakfast Quesadilla": {
+                "description": "Cheese quesadilla folded in a tomato basil tortilla and topped with a fried egg and Ranchero sauce",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Dairy, Gluten, Egg, Mushroom"
+            },
+            "Vegan Ranchero Style Breakfast Quesadilla": {},
+            "Bacon Hot Dog": {
+                "description": "Beef frankfurter grilled and served with slices of bacon",
+                "Serving Size": ": 1 each",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Gluten, Wheat"
+            },
+            "Dirty Chips": {
+                "description": "Delicious and Crispy potato Chips fried in PEANUT OIL",
+                "Serving Size": ": 1 bag",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "PEANUTS, PEANUT OIL "
+            },
+            "Chicken Quinoa and Coriander Soup": {
+                "Serving Size": ": 1 cup",
+                "Calories": ": 150.25",
+                "Fat (g)": ": 6.67",
+                "Carbohydrates (g)": ": 13.29",
+                "Protein (g)": ": 10.24",
+                "Allergens": "Halal chicken thighs, fresh cilantro, green peas, yellow onion, fair trade tri-color quinoa, canned green chilis (green chiles, salt, citric acid, calcium chloride), gluten-free chicken soup base (chicken broth, salt, sugar, yeast extract, chicken fat, modified corn starch, citric acid, natural flavor), canola/olive oil blend, garlic, iodized salt, cornstarch, ground black pepper"
+            },
+            "Kale and White Bean Soup": {
+                "description": "Kale and white beans simmered in vegetable broth with tomatoes, garlic, onion, and Italian herbs",
+                "Serving Size": ": 1 cup",
+                "Calories": ": 61.84",
+                "Fat (g)": ": 0.06",
+                "Carbohydrates (g)": ": 10.31",
+                "Protein (g)": ": 2.08",
+                "Allergens": "Mushroom",
+                "Ingredients": "White beans, tomato, kale, gluten-free vegetable soup base (reconstituted vegetable juice blend [water and concentrated juices of carrot, celery, tomato], maltodextrin, salt, sugar, onion juice concentrate, yeast extract, cabbage juice, garlic powder, mushroom extract, spice, natural flavor), yellow onion, garlic, canola/olive oil blend, cornstarch, kosher salt, Italian seasoning"
+            },
+            "Classic Macaroni Salad": {
+                "Serving Size": ": 1 serving",
+                "Calories": ": 320",
+                "Fat (g)": ": 22",
+                "Carbohydrates (g)": ": 27",
+                "Protein (g)": ": 5",
+                "Allergens": "Egg/Gluten/Soybean Oil/Wheat",
+                "Ingredients": "Macaroni (semolina wheat flour [enriched with niacin, iron, thiamine mononitrate, riboflavin, folic acid], egg white), mayonnaise (soybean oil, water, egg yolks, vinegar, salt), sweet pickle relish (cucumbers, sugar, distilled vinegar, salt, contains less than 2% of mustard seed, xanthan gum, calcium chloride, celery seed, dehydrated red bell pepper, natural flavoring, turmeric, minced onion), water, celery, sugar, onion, red bell pepper, salt, vinegar, mustard (water, vinegar, mustard seed, salt, sugar, soybean oil, turmeric and paprika, garlic powder, spices, xanthan gum, annatto color, citric acid, natural flavor), modified corn starch, sodium benzoate, potassium sorbate, annatto extract, xanthan gum"
+            },
+            "Old Fashioned Potato Salad": {
+                "description": "Chunky potatoes mixed with celery, onion, and red bell peppers in a mayonnaise dressing.",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 136.66",
+                "Fat (g)": ": 8.34",
+                "Carbohydrates (g)": ": 14.7",
+                "Protein (g)": ": 1.76",
+                "Allergens": "Egg/Soybean Oil",
+                "Ingredients": "Red potato, celery, mayonnaise (contains egg and soybean oil), yellow onion, red bell pepper, white wine vinegar, red wine vinegar, iodized salt, ground black pepper"
+            },
+            "Jicama and Cabbage Slaw": {
+                "description": "Jicama, Cucumbers, Carrots and Cabbage",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Alcohol"
+            },
+            "Carrot, Cucumber and Pickle Mixture": {
+                "description": "Carrots, Cucumbers and Pickles",
+                "Serving Size": ":  ",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "No Major Allergens"
+            },
+            "M&M Brownies": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": each",
+                "Calories": ": 210",
+                "Fat (g)": ": 10",
+                "Carbohydrates (g)": ": 29",
+                "Protein (g)": ": 2",
+                "Allergens": "Alcohol/Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached wheat flour, vegetable shortening (contains soybean oil), cocoa, dried egg whites, corn starch, dried whey, soy flour, artificial flavor, salt, water, soybean oil, milk chocolate (sugar, cocoa butter, chocolate liquor, whole milk powder, soy lecithin, vanilla), sugar, artificial color, corn syrup, wax, dextrin. Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Assorted Cookies": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": 1 cookie",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Alcohol [vanilla extract]/Egg/Gluten/Soybean Oil/Wheat"
+            }
+        },
+        "Dinner": {
+            "Chicken Quinoa and Coriander Soup": {
+                "Serving Size": ": 1 cup",
+                "Calories": ": 150.25",
+                "Fat (g)": ": 6.67",
+                "Carbohydrates (g)": ": 13.29",
+                "Protein (g)": ": 10.24",
+                "Allergens": "Halal chicken thighs, fresh cilantro, green peas, yellow onion, fair trade tri-color quinoa, canned green chilis (green chiles, salt, citric acid, calcium chloride), gluten-free chicken soup base (chicken broth, salt, sugar, yeast extract, chicken fat, modified corn starch, citric acid, natural flavor), canola/olive oil blend, garlic, iodized salt, cornstarch, ground black pepper"
+            },
+            "Kale and White Bean Soup": {
+                "description": "Kale and white beans simmered in vegetable broth with tomatoes, garlic, onion, and Italian herbs",
+                "Serving Size": ": 1 cup",
+                "Calories": ": 61.84",
+                "Fat (g)": ": 0.06",
+                "Carbohydrates (g)": ": 10.31",
+                "Protein (g)": ": 2.08",
+                "Allergens": "Mushroom",
+                "Ingredients": "White beans, tomato, kale, gluten-free vegetable soup base (reconstituted vegetable juice blend [water and concentrated juices of carrot, celery, tomato], maltodextrin, salt, sugar, onion juice concentrate, yeast extract, cabbage juice, garlic powder, mushroom extract, spice, natural flavor), yellow onion, garlic, canola/olive oil blend, cornstarch, kosher salt, Italian seasoning"
+            },
+            "Classic Macaroni Salad": {
+                "Serving Size": ": 1 serving",
+                "Calories": ": 320",
+                "Fat (g)": ": 22",
+                "Carbohydrates (g)": ": 27",
+                "Protein (g)": ": 5",
+                "Allergens": "Egg/Gluten/Soybean Oil/Wheat",
+                "Ingredients": "Macaroni (semolina wheat flour [enriched with niacin, iron, thiamine mononitrate, riboflavin, folic acid], egg white), mayonnaise (soybean oil, water, egg yolks, vinegar, salt), sweet pickle relish (cucumbers, sugar, distilled vinegar, salt, contains less than 2% of mustard seed, xanthan gum, calcium chloride, celery seed, dehydrated red bell pepper, natural flavoring, turmeric, minced onion), water, celery, sugar, onion, red bell pepper, salt, vinegar, mustard (water, vinegar, mustard seed, salt, sugar, soybean oil, turmeric and paprika, garlic powder, spices, xanthan gum, annatto color, citric acid, natural flavor), modified corn starch, sodium benzoate, potassium sorbate, annatto extract, xanthan gum"
+            },
+            "Old Fashioned Potato Salad": {
+                "description": "Chunky potatoes mixed with celery, onion, and red bell peppers in a mayonnaise dressing.",
+                "Serving Size": ": 1/2 cup",
+                "Calories": ": 136.66",
+                "Fat (g)": ": 8.34",
+                "Carbohydrates (g)": ": 14.7",
+                "Protein (g)": ": 1.76",
+                "Allergens": "Egg/Soybean Oil",
+                "Ingredients": "Red potato, celery, mayonnaise (contains egg and soybean oil), yellow onion, red bell pepper, white wine vinegar, red wine vinegar, iodized salt, ground black pepper"
+            },
+            "Jicama and Cabbage Slaw": {
+                "description": "Jicama, Cucumbers, Carrots and Cabbage",
+                "Serving Size": ": N/A",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Alcohol"
+            },
+            "Carrot, Cucumber and Pickle Mixture": {
+                "description": "Carrots, Cucumbers and Pickles",
+                "Serving Size": ":  ",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "No Major Allergens"
+            },
+            "M&M Brownies": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": each",
+                "Calories": ": 210",
+                "Fat (g)": ": 10",
+                "Carbohydrates (g)": ": 29",
+                "Protein (g)": ": 2",
+                "Allergens": "Alcohol/Dairy/Egg/Gluten/Soy/Soybean Oil/Wheat",
+                "Ingredients": "Sugar, enriched bleached wheat flour, vegetable shortening (contains soybean oil), cocoa, dried egg whites, corn starch, dried whey, soy flour, artificial flavor, salt, water, soybean oil, milk chocolate (sugar, cocoa butter, chocolate liquor, whole milk powder, soy lecithin, vanilla), sugar, artificial color, corn syrup, wax, dextrin. Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy"
+            },
+            "Assorted Cookies": {
+                "description": "Produced in a facility that also uses dairy, eggs, fish, tree nuts, peanuts, wheat, and soy",
+                "Serving Size": ": 1 cookie",
+                "Calories": ": N/A",
+                "Fat (g)": ": N/A",
+                "Carbohydrates (g)": ": N/A",
+                "Protein (g)": ": N/A",
+                "Allergens": "Alcohol [vanilla extract]/Egg/Gluten/Soybean Oil/Wheat"
+            }
+        }
+    },
+    "latitude": {}
+}
