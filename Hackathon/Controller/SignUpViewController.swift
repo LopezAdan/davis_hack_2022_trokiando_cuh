@@ -14,21 +14,22 @@ class SignUpViewController: UIViewController {
     @IBOutlet weak var passLabel: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
-
         // Do any additional setup after loading the view.
     }
     
     @IBAction func onSignUp(_ sender: Any) {
         let user = PFUser()
-        user.username = userLabel.text
-        user.password = passLabel.text
-        user.signUpInBackground { success, Error in
-           if success {
-               self.performSegue(withIdentifier: "singupSegue", sender: nil)
-           }
-           else {
-               print("Error: \(Error?.localizedDescription)")
-           }
+        user.username = userLabel.text!
+        user.password = passLabel.text!
+
+        user.signUpInBackground { success, error in
+            if success {
+                self.performSegue(withIdentifier: "singupSegue", sender: nil)
+            }
+            else {
+                print("Error: \(error?.localizedDescription)")
+
+            }
         }
     }
     

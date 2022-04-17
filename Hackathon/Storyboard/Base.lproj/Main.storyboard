@@ -85,27 +85,39 @@
                     <connections>
                         <outlet property="passwordLabel" destination="ib5-DO-lnD" id="uzj-uM-emW"/>
                         <outlet property="usernameLabel" destination="fg2-PC-4Ys" id="vYf-4g-ud1"/>
-                        <segue destination="yQT-hc-4Cd" kind="presentation" identifier="loginSegue" id="HyK-4z-Yob"/>
+                        <segue destination="yQT-hc-4Cd" kind="push" identifier="loginSegue" id="HyK-4z-Yob"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dId-Ze-796" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-165" y="13"/>
         </scene>
-        <!--View Controller-->
+        <!--Profile-->
         <scene sceneID="INS-wb-VKk">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="yQT-hc-4Cd" sceneMemberID="viewController">
+                <viewController restorationIdentifier="ProfileViewController" storyboardIdentifier="ProfileViewController" modalPresentationStyle="fullScreen" id="yQT-hc-4Cd" customClass="ProfileViewController" customModule="Hackathon" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lhW-Os-eVP">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OoO-k5-fIM">
+                                <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <items>
+                                    <navigationItem title="Profile" id="dNL-ON-2B4">
+                                        <barButtonItem key="rightBarButtonItem" image="gearshape" catalog="system" width="10" id="ng1-yD-fHu"/>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="rbZ-ee-Abt"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
+                    <navigationItem key="navigationItem" title="Profile" leftItemsSupplementBackButton="YES" id="Eyo-Z9-UbB"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eRs-EN-M2s" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="332" y="707"/>
+            <point key="canvasLocation" x="331.8840579710145" y="706.47321428571422"/>
         </scene>
         <!--Sign Up View Controller-->
         <scene sceneID="v4E-Me-u9P">
@@ -185,7 +197,7 @@
                     <connections>
                         <outlet property="passLabel" destination="NhI-y0-d1U" id="Ngt-3H-9sU"/>
                         <outlet property="userLabel" destination="hUX-sP-ENI" id="Eo0-fM-AzQ"/>
-                        <segue destination="yQT-hc-4Cd" kind="presentation" identifier="singupSegue" id="805-EB-fQn"/>
+                        <segue destination="yQT-hc-4Cd" kind="push" identifier="singupSegue" id="805-EB-fQn"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="okm-15-BGt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -266,10 +278,11 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="805-EB-fQn"/>
+        <segue reference="HyK-4z-Yob"/>
         <segue reference="Qcn-eb-hFt"/>
     </inferredMetricsTieBreakers>
     <resources>
+        <image name="gearshape" catalog="system" width="128" height="121"/>
         <systemColor name="linkColor">
             <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>

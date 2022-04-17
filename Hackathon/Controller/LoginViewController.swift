@@ -22,18 +22,22 @@ class LoginViewController: UIViewController {
 
     @IBAction func onSignIn(_ sender: Any) {
         let username = usernameLabel.text!
-                let password = passwordLabel.text!
+        let password = passwordLabel.text!
+
+        PFUser.logInWithUsername(inBackground: username, password: password) { user, Error in
+            if user != nil {
+                self.performSegue(withIdentifier: "loginSegue", sender: nil)
                 
-                PFUser.logInWithUsername(inBackground: username, password: password) { user, Error in
-                    if user != nil {
-                        self.performSegue(withIdentifier: "loginSegue", sender: nil)
-                    }
-                    else {
-                        print("Error: \(Error?.localizedDescription)")
-                    }
-                }
+            }
+            else {
+                print("Error: \(Error?.localizedDescription)")
+            }
+        }
     }
     
+//                self.errorLabel.text = "Account already exists for this username"
+                
+ 
     
 
     /*

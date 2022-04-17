@@ -12,6 +12,7 @@
 		7A5423E86A901EB56B81A551 /* Pods_Hackathon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA150EAF080C5EA5EE2252DE /* Pods_Hackathon.framework */; };
 		CD101841280B880700F8A4CE /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD101840280B880700F8A4CE /* LoginViewController.swift */; };
 		CD101843280B902900F8A4CE /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD101842280B902900F8A4CE /* SignUpViewController.swift */; };
+		CD101847280BF40E00F8A4CE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD101846280BF40E00F8A4CE /* ProfileViewController.swift */; };
 		CD114308280B7DF40068947F /* HomePageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD114307280B7DF40068947F /* HomePageController.swift */; };
 		CD53D9CC280B7215008AF111 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD53D9CB280B7215008AF111 /* AppDelegate.swift */; };
 		CD53D9CE280B7215008AF111 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD53D9CD280B7215008AF111 /* SceneDelegate.swift */; };
@@ -51,6 +52,7 @@
 		BA150EAF080C5EA5EE2252DE /* Pods_Hackathon.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hackathon.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD101840280B880700F8A4CE /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		CD101842280B902900F8A4CE /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		CD101846280BF40E00F8A4CE /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		CD114307280B7DF40068947F /* HomePageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageController.swift; sourceTree = "<group>"; };
 		CD53D9C8280B7215008AF111 /* Hackathon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hackathon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD53D9CB280B7215008AF111 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				CD114307280B7DF40068947F /* HomePageController.swift */,
 				CD101840280B880700F8A4CE /* LoginViewController.swift */,
 				CD101842280B902900F8A4CE /* SignUpViewController.swift */,
+				CD101846280BF40E00F8A4CE /* ProfileViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -444,6 +447,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD101847280BF40E00F8A4CE /* ProfileViewController.swift in Sources */,
 				CD101841280B880700F8A4CE /* LoginViewController.swift in Sources */,
 				CD53D9CC280B7215008AF111 /* AppDelegate.swift in Sources */,
 				CD53D9CE280B7215008AF111 /* SceneDelegate.swift in Sources */,
